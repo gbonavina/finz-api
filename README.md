@@ -16,7 +16,7 @@ A Finz-API é uma API criada para fornecer informações atuais sobre diversos t
 ### Passo a passo
 1. Clone o repositório da Finz-API para o seu ambiente local:
 ```bash
-git clone https://github.com/marcoshollmann/finz-api
+git clone https://github.com/gbonavina/finz-api
 ```
 2. Acesse o diretório da API:
 ```bash
